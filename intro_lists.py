@@ -1,3 +1,11 @@
+'''
+Given the following list:
+names = [“Abigail”, “Brenda”, “Chad”, “Doug”, “Emma”, “Francis”, “George”, “Harold”, “Imogen”, “Jackie”, “Kurt”, “Linda”]
+'''
+
+
+
+
 def swap(list_one):
     """
     Function that swaps the first and last elements of the list, regardless of length
