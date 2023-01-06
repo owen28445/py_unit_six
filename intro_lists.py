@@ -1,7 +1,5 @@
-'''
-Given the following list:
-names = [“Abigail”, “Brenda”, “Chad”, “Doug”, “Emma”, “Francis”, “George”, “Harold”, “Imogen”, “Jackie”, “Kurt”, “Linda”]
-'''
+                    
+
 
 
 
@@ -12,7 +10,30 @@ def swap(list_one):
     :param list_one: a list of at least two elements
     :return: the same list with the first and last elements swapped
     """
-    pass # make sure to remove this line before beginning work on this function
+    print(swap)
+    swap[1] = swap[-1]
+    print(swap)
+
+    print(swap)
+    swap[2] = swap[-1]
+    print(swap)
+
+    print(swap)
+    swap[3] = swap[-1]
+    print(swap)
+
+    print(swap)
+    swap[4] = swap[-1]
+    print(swap)
+
+    print(swap)
+    swap[5] = swap[-1]
+    print(swap)
+
+
+swap(1,2,3,4,5,6)
+
+
 
 
 def rotate_left(list_one):
