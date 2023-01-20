@@ -36,6 +36,8 @@ swap(1,2,3,4,5,6)
 
 
 
+
+
 def rotate_left(list_one):
     """
     Given a list of ints length 3, return a list with the elements "rotated left" so [1, 2, 3] yields [2, 3, 1].
@@ -53,3 +55,9 @@ def max_end(list_one):
     :return: A list where all the elements are the larger of the first or last element of the original list
     """
     pass # make sure to remove this line before beginning work on this function
+    if (1,2,3) is bigger than 3
+    print()
+    if the number is same as (1,2,3)
+    print()
+
+max_end3(1,2,3)
