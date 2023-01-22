@@ -34,7 +34,7 @@ def is_duplicates(list):
     :return: if it's find a a duplicates, it returns a ture.
     '''
     x = 0
-    for num in list
+    for num in list:
         x = x + 1
         for days in list {x:23}
             if num == days:
